@@ -38,5 +38,5 @@ Working on so many projects all this years and still working, I find my self cab
 </p>
 
 
-<h3>Public Discord Bots at the moment</h3>
-Twitter
+<h3>Public Discord Bots</h3>
+<a href="https://top.gg/bot/797054687060819988">Twitter</a>
