@@ -1,7 +1,7 @@
 ### Hi, I am Nick.
 
-###I have worked on a lot of projects.
-###3 years of working in those projects I have learned:
+`I have worked on a lot of projects.
+###3 years of working in those projects I have learned:`
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
