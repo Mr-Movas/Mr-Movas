@@ -14,7 +14,7 @@
   <li>CSS</li>
 </ul>  
 
-<h3>Journey</h3>
+<!--<h3>Journey</h3>
 <p>
 Discord bots were the beginning for me to learn nodejs 3 years ago,
 </p><p>
@@ -40,7 +40,7 @@ Working on so many projects all these years and still working, I find myself cab
 </p>
 
 
-<h3>Public Discord Bots</h3>
+<h3>Public Discord Bots</h3>-->
 Twitter
 
 </div>
