@@ -40,7 +40,8 @@ Working on so many projects all these years and still working, I find myself cab
 </p>
 
 
-<h3>Public Discord Bots</h3>-->
+<h3>Public Discord Bots</h3>
 Twitter
 
 </div>
+-->
