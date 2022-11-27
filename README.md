@@ -22,7 +22,7 @@ I learned how to work with data,
  </p><p>
 I learned how can I use a database, 
 </p><p>
-after I learned those 3 things I was in moment that I had to update a lot of things to the projects I had then, a json file for each project that I was manualy changing and I was restarting the apps so I can make the changes something, of course that was not good because I could close the program in the middle of a process, I made for each project something that I still do it but much better, a dashboard that I can update automaticly everything from it using a database and the logic of how to handle with the data.
+after I learned those 3 things I was in moment that I had to update a lot of things to the projects I had then, a json file for each project that I was manualy changing and I was restarting the apps so I can make the changes needed, of course that was not good because I could close the program in the middle of a process, I made for each project something that I still do it, a dashboard that I can update automaticly everything from it using a database and the logic of how to handle with the data to save me time.
 </p><p>
 While making the dashboard I learned how to work with express so I could handle the requests of the changes I wanted to do to my apps from the browser, that made me learn about HTTP requests and it helped me make my applications to be able to communicate with each other when I needed them to. 
 </p><p>
@@ -30,9 +30,13 @@ When it came to use other APIs that did not had libraries like discord had, I ea
 </p><p>
 Working with the APIs I also learned how to use websockets. 
 </p>
-</p>
-Working with websockets were the same like using the listeners that the libraries that I have used had, after you set up a websocket the way you handle the given data was the same as handling tha data from messageCreate event in discord.js or when a tweet is made when using the twitter API library and many other examples.
 <p>
+Working with websockets were the same like using the listeners that the libraries that I have used had, after you set up a websocket the way you handle the given data was the same as handling tha data from the messageCreate event in discord.js or when a tweet is made when using the twitter API library and many other examples.
+</p>
+<p>
+Working on so many projects all this years and still working, I find my self cabable of unterstanding and being able to work with projects that has do to with the backend and handling data. 
+</p>
+
 
 <h3>Public Discord Bots at the moment</h3>
 Twitter
