@@ -1,4 +1,4 @@
-###Hi 👋, I'm Nick
+<h1>Hi 👋, I'm Nick</h1>
 
 <h3>3 years of working on various projects I have learned:</h3>
 <ul>
