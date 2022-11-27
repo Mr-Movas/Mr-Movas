@@ -14,6 +14,7 @@
 
 <h3>Journey</h3>
 **Discord:**
+<p>
 Discord bots was the begining for me to learn nodejs 3 years ago, 
 working on projects I learned the logic of how can I solve problems in programing, 
 I learned how to work with data, 
@@ -22,3 +23,4 @@ after I learned those 3 things I was in moment that I had to update a lot of thi
 While making the dashboard I learned how to work with express so I could handle the requests of the changes I wanted to do to my apps from the browser, that made me learn about HTTP requests and it helped me make my applications to be able to communicate with each other when I needed them to. 
 When it came to use other APIs that did not had libraries like discord had, I easily was able to work with them becasue the dashboard and the communications between my applications that I mentioned were working very familiar with how the APIs were.
 Working with the APIs I also learned how to use websockets. 
+</p>
