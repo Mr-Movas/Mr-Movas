@@ -8,7 +8,7 @@
   <li>Javascript</li>
   <li>MySQL</li>
   <li>Discord.js</li>
-  <li>How to work with HTTP request using Express</li>
+  <li>How to work with HTTP request</li>
   <li>How to work with APIs</li>
   <li>HTML</li>
   <li>CSS</li>
