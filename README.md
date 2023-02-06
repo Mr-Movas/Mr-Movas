@@ -7,8 +7,9 @@
   <li>NodeJS</li>
   <li>Javascript</li>
   <li>MySQL</li>
-  <li>How to work with APIs</li>
-  <li>How to work with HTTP request</li>
+  <li>APIs</li>
+  <li>HTTP request</li>
+  <li>WebSockets</li>
   <li>Discord.js</li>
   <li>HTML</li>
   <li>CSS</li>
