@@ -6,6 +6,7 @@
 <ul>
   <li>NodeJS</li>
   <li>Javascript</li>
+  <li>C/C++</li>
   <li>MySQL</li>
   <li>APIs</li>
   <li>HTTP request</li>
