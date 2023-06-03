@@ -13,6 +13,7 @@
   <li>HTTP request</li>
   <li>WebSockets</li>
   <li>Discord.js</li>
+  <li>EJS</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>  
